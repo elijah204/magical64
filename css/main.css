@@ -2,10 +2,12 @@
  * Globals
  */
 /* Links */
-a,
-a:focus,
-a:hover {
-  color: #fff; }
+a {
+  color: #999
+}
+a:focus, a:hover {
+  color: #fff;
+}
 div.form-group {
   color: #cfcfcf;
 }
